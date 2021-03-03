@@ -1,5 +1,4 @@
-# アプリ名
-インベスター.com
+# インベスター.com
 
 ## サイト概要
 主に、日本人個人投資家が投資戦略や現在投資を行っている、または行おうと思っている投資商品についての分析および個人的見解を投稿するサイトである。
@@ -21,16 +20,13 @@
 
 
 ### ターゲットユーザ
-・日本人個人投資家層（主に投稿、閲覧）
-・これから投資を始めようと思っている層（主に閲覧）
+- 日本人個人投資家層（主に投稿、閲覧）
+- これから投資を始めようと思っている層（主に閲覧）
 
 ### 主な利用シーン
 投資を行う際の判断材料
 
-## 設計書
-ワイヤーフレームhttps://docs.google.com/presentation/d/1nObNWh4YJKH9XJWZlvA7vIBr4l14FKQuUjW_Zm-sEEQ/edit#slide=id.gc382ef1d9f_0_15
-
-## チャレンジ要素一覧
+## 機能一覧
 https://docs.google.com/spreadsheets/d/1K-AnyuwkumFnw97GkLBQAlAh1q_VFOXjZKSDVlljdGU/edit#gid=0
 
 ## 開発環境
